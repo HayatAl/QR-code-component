@@ -1,0 +1,47 @@
+*{
+      font-family: "Outfit", sans-serif;
+}
+body{
+    background-color: #D5E1EF;
+}
+
+.Rectangle{
+    background-color:#FFFFFF ;
+    width: 320px;
+    height: 497px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 5%;
+}
+img{
+    width: 288px;
+    height: 288px;
+    border-radius: 5%;
+   margin: 5%;
+}
+.group2{
+    text-align: center;
+    margin: 0% 5%;
+}
+
+
+.group2 h3{
+    color:#1F314F;
+    width: 288px;
+    height: 56px;
+    font-size: 22px;
+    font-weight: 700;
+    margin: 0;
+
+}
+
+
+.group2 p{
+    font-size: 15px;
+    width: 256px;
+    color: #7D889E;
+
+}
+
